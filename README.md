@@ -1,4 +1,4 @@
-<div align="center"><img src="[https://i.ibb.co/JvMNfPk/gnome-gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdrift-brothers&psig=AOvVaw0TjHahZh4YJgtVBUGXLPjU&ust=1667530196675000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjgqZyAkfsCFQAAAAAdAAAAABAQ)" alt="Welcome to my Github!" align="center"></div>
+<div align="center"><img src="https://i.ibb.co/JvMNfPk/gnome-gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdrift-brothers&psig=AOvVaw0TjHahZh4YJgtVBUGXLPjU&ust=1667530196675000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjgqZyAkfsCFQAAAAAdAAAAABAQ)" alt="Welcome to my Github!" align="center"></div>
 
 <h1 align="center">:wave:  Hi! I'm Tre, welcome to my GitHub.  :open_file_folder:</h1>
 <h2 align="center">I'm an Austin based software engineer coding full-stack Javascript applications.</h3>
