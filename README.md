@@ -6,7 +6,7 @@
 
 
 
-- :construction: I’m currently working on **Learning React**
+- :construction: I’m currently working on **Experimenting with React**
 
 - :alembic: I'm currently experimenting with **Updating my PreviousProjects with MVC**
 
