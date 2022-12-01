@@ -6,15 +6,15 @@
 
 
 
-- :construction: I’m currently working on **Building my own API's**
+- :construction: I’m currently working on **Learning React**
 
-- :alembic: I'm currently experimenting with **API's and OOP**
+- :alembic: I'm currently experimenting with **Updating my PreviousProjects with MVC **
 
-- :dart: I’m currently focusing on **Growing my connections and meeting people in tech**
+- :dart: I’m currently focusing on **Building a social media application for a client**
 
 - :man_technologist: View my live projects at [https://www.tretroha.site](https://www.tretroha.site)
 
-- 💬 Ask me about **Language Learning and tech**
+- 💬 Ask me about **My new project car!**
 
 - 📫 How to reach me **Tre.troha@gmail.com**
 
