@@ -8,7 +8,7 @@
 
 - :construction: I’m currently working on **Experimenting with React**
 
-- :alembic: I'm currently experimenting with **Updating my PreviousProjects with MVC**
+- :alembic: I'm currently experimenting with **Updating my Previous Projects with MVC**
 
 - :dart: I’m currently focusing on **Building a social media application for a client**
 
