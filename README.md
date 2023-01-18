@@ -6,11 +6,11 @@
 
 
 
-- :construction: I’m currently working on **Experimenting with React**
+- :construction: I’m currently working on **Turning the world in React Components**
 
-- :alembic: I'm currently experimenting with **Updating my Previous Projects with MVC**
+- :alembic: I'm currently experimenting with **Styled Components in React**
 
-- :dart: I’m currently focusing on **Building a social media application for a client**
+- :dart: I’m currently focusing on **Building a widget based React app for a client**
 
 - :man_technologist: View my live projects at [https://www.tretroha.site](https://www.tretroha.site)
 
