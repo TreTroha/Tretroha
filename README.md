@@ -6,7 +6,7 @@
 
 
 
-- :construction: I’m currently working on **Turning the world in React Components**
+- :construction: I’m currently working on **Turning the world into React Components**
 
 - :alembic: I'm currently experimenting with **Styled Components in React**
 
